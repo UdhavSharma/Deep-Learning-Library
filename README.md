@@ -2,6 +2,7 @@
 A deep learning library made in C++ using OpenCV used to create CNN architectures.
 Requires OpenCV to be pre-installed.
 OpenCV's UMat data type is used for matrix multiplication which makes use of GPU for faster calculations.
+Supports AMD GPUs.
 
 #  Layers
 
