@@ -21,8 +21,8 @@ Supports AMD GPUs.
 
 # Plant seedling classification using this library
 
-Dataset: https://www.kaggle.com/c/plant-seedlings-classification
-https://imgur.com/a/811zpap
+-Dataset: https://www.kaggle.com/c/plant-seedlings-classification
+-https://imgur.com/a/811zpap
 
 # Authors and Maintainers
 
