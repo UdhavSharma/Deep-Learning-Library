@@ -1,8 +1,3 @@
-﻿// Image.cpp : Defines the entry point for the console application.
-//
-
-#define CL_USE_DEPRECATED_OPENCL_2_0_APIS
-
 #include<iostream>
 #include<opencv2\opencv.hpp> //OPENCV
 #include "Layers.h" // Base Class
