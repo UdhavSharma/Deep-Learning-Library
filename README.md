@@ -19,6 +19,11 @@ Supports AMD GPUs.
 2. Layer details are provided while creating that layers object.
 3. Check out test.cpp file to learn how to fully use this library from using dataset and getting the final model.
 
+# Plant seedling classification using this library
+
+Dataset: https://www.kaggle.com/c/plant-seedlings-classification
+https://imgur.com/a/811zpap
+
 # Authors and Maintainers
 
 1. Udhav Sharma (https://www.github.com/UdhavSharma)
