@@ -1,3 +1,6 @@
+//Credits and source: https://github.com/takmin/BinaryCvMat
+//Modified to fit library needs
+
 #include "BinaryCvMat.h"
 
 using namespace std;
